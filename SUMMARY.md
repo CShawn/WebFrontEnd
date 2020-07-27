@@ -25,3 +25,5 @@
   * [3.5-函数](3-JavaScript/3.5-函数.md)
   * [3.6-内置对象](3-JavaScript/3.6-内置对象.md)
 
+* [4-AJAX](4-AJAX/README.md)
+  * [4.1-初识AJAX](4-AJAX/4.1-初识AJAX.md)
