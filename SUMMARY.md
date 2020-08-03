@@ -29,3 +29,4 @@
   * [4.1-初识AJAX](4-AJAX/4.1-初识AJAX.md)
   * [4.2-Node.js介绍](4-AJAX/4.2-Node.js介绍.md)
   * [4.3-揭秘AJAX](4-AJAX/4.3-揭秘AJAX.md)
+  * [4.4-jQuery中的AJAX](4-AJAX/4.4-jQuery中的AJAX.md)
